@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micronaut:http-server-netty:1.0.0.M1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/http-server-netty/1.0.0.M1/6f211af9fc1902c9dc5ccd9fd6835b16911bca5a/http-server-netty-1.0.0.M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/http-server-netty/1.0.0.M1/3f1702d3061a387b4262351155869bdd851af90b/http-server-netty-1.0.0.M1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

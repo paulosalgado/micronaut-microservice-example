@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micronaut:core:1.0.0.M1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/core/1.0.0.M1/b7b4fa37910fe082b58e6eb2654dbd70aeb4e0b1/core-1.0.0.M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/core/1.0.0.M1/4d49395c45d6911bf87920f0c414cff2eea45242/core-1.0.0.M1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
